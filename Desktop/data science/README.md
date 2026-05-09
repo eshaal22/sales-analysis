@@ -1,0 +1,1 @@
+# My First Data Science Project ## What This Project Does I analyze sales data to find patterns and trends. ## Tools I Use - Python - Pandas (for data) - Matplotlib (for charts) ## What I Found - Top selling products - Sales trends by month - Customer patterns
